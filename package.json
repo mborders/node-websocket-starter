@@ -1,0 +1,23 @@
+{
+  "name": "websocket-starter",
+  "version": "1.0.0",
+  "description": "Node.js websocket server using Express",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mborders/node-websocket-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mborders/node-websocket-starter/issues"
+  },
+  "homepage": "https://github.com/mborders/node-websocket-starter#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "ws": "^3.0.0"
+  }
+}
